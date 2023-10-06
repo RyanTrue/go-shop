@@ -1,6 +1,6 @@
 module github.com/RyanTrue/go-shop
 
-go 1.21.1
+go 1.21
 
 require (
 	github.com/caarlos0/env v3.5.0+incompatible
